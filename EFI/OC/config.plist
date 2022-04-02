@@ -359,6 +359,26 @@
 	<key>DeviceProperties</key>
 	<dict>
 		<key>Add</key>
+		<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>@0,backlight-control</key>
+				<data>AQAAAA==</data>
+				<key>AAPL,backlight-control</key>
+				<data>AQAAAA==</data>
+				<key>AAPL00,backlight-control</key>
+				<data>AQAAAA==</data>
+				<key>applbkl</key>
+				<data>AQAAAA==</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>@0,backlight-control</key>
+				<data>AAAAAA==</data>
+				<key>AAPL,backlight-control</key>
+				<data>AAAAAA==</data>
+				<key>applbkl</key>
+				<data>AAAAAA==</data>
+			</dict>
 		<dict/>
 		<key>Delete</key>
 		<dict/>
